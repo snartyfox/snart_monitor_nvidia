@@ -8,9 +8,11 @@ Monitor designed to prevent overheating in mining rigs with nvidia GPU cards wit
 - Update settings via telegram will be avaliable soon...
 
 How it works:
-- Download and Extract the monitor
+- Download and Extract the monitor (file scanned by kaspersky)
 
 ![Screenshot_1](https://user-images.githubusercontent.com/89432902/130544349-65aa82e8-090b-4066-9390-629edf481e2a.png)
+
+![imagen](https://user-images.githubusercontent.com/89432902/130547229-4ff22bea-8d50-438e-b048-8f228d7b8e75.png)
 
 - Open the recent JSON file "config_json.json"
 
@@ -69,9 +71,11 @@ Monitor diseñado para evitar el sobrecalentamiento en plataformas mineras con t
 
 
 Cómo funciona:
-- Descarga y extrae el monitor
+- Descarga y extrae el monitor (Archivo escaneado con Kaspersky)
 
 ![Screenshot_1](https://user-images.githubusercontent.com/89432902/130544349-65aa82e8-090b-4066-9390-629edf481e2a.png)
+
+![imagen](https://user-images.githubusercontent.com/89432902/130547229-4ff22bea-8d50-438e-b048-8f228d7b8e75.png)
 
 - Abra el archivo JSON  "config_json.json"
 
