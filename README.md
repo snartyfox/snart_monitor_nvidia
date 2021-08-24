@@ -64,7 +64,7 @@ Enjoy!
 Monitor diseñado para evitar el sobrecalentamiento en plataformas mineras con tarjetas GPU nvidia con telegram
 
 - AMD GPUS estará disponible pronto ...
-- Página web en pogregss ..
+- Página web en progreso ..
 - La actualización de la configuración a través de telegrama estará disponible pronto ...
 
 
