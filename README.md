@@ -56,6 +56,12 @@ How it works:
 
 ![imagen](https://user-images.githubusercontent.com/89432902/130546096-cd4b959c-8454-479c-905b-91df6888363f.png)
 
+-In order to run when windows start, create a shorcut on "Startup" Foler:
+ "C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+ 
+ ![imagen](https://user-images.githubusercontent.com/89432902/130548411-98b45678-03b1-4930-a67d-2e3c9e4ead08.png)
+
+
 Enjoy!
 
 
@@ -119,4 +125,9 @@ Cómo funciona:
 
 ![imagen](https://user-images.githubusercontent.com/89432902/130546096-cd4b959c-8454-479c-905b-91df6888363f.png)
 
+-Para hacer que se ejecute cada vez que inicia windows, crea un acceso directo en la carpeta "Inicio"
+ "C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+ 
+ ![imagen](https://user-images.githubusercontent.com/89432902/130548411-98b45678-03b1-4930-a67d-2e3c9e4ead08.png)
+ 
 Disfruta!
